@@ -3,7 +3,6 @@ Customer Purchase Prediction with Random Forest - Predicts customer purchase
                   behavior and segments customers using a Random Forest model.
 
 @author: Kristijan <kristijan.sarin@gmail.com>
-
 """
 
 
