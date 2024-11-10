@@ -15,6 +15,9 @@ This project was created as part of a hackathon challenge aimed at developing a 
 - Detect customer behavior patterns and predict the likelihood of product purchases to enhance the effectiveness of marketing campaigns.
 - Rank clients for individual KB products by the probability of purchase, allowing marketing campaigns to focus on clients with the highest likelihood of conversion.
 
+### Architecture
+![tech-stack](https://github.com/user-attachments/assets/b55bc520-706f-467b-a6db-8fbe79e6cc54)
+
 ## Input Data
 
 The dataset consists of several tables capturing various customer interactions and transaction details across multiple platforms and channels. Key features include:
